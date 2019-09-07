@@ -1,17 +1,17 @@
 <header>
 			<div class="row">
 				<div class="col-md-3 top-info text-left mt-lg-4">
-					<h6>Need Help</h6>
+					<h6>Necesita Ayuda</h6>
 					<ul>
 						<li>
-							<i class="fas fa-phone"></i> Call</li>
-						<li class="number-phone mt-3">12345678099</li>
+							<i class="fas fa-phone"></i> Llamar</li>
+						<li class="number-phone mt-3">624123456789</li>
 					</ul>
 				</div>
 				<div class="col-md-6 logo-w3layouts text-center">
 					<h1 class="logo-w3layouts">
 						<a class="navbar-brand" href="index.html">
-							Goggles </a>
+							Biznagas</a>
 					</h1>
 				</div>
 
@@ -27,7 +27,7 @@
 								<input type="hidden" name="cmd" value="_cart">
 								<input type="hidden" name="display" value="1">
 								<button class="top_googles_cart" type="submit" name="submit" value="">
-									My Cart
+									Carrito
 									<i class="fas fa-cart-arrow-down"></i>
 								</button>
 							</form>
@@ -39,16 +39,16 @@
 							<i class="fa fa-times" aria-hidden="true"></i>
 						</button>
 						<div class="wrap">
-							<h5 class="text-center mb-4">Login Now</h5>
+							<h5 class="text-center mb-4">Iniciar Sesion</h5>
 							<div class="login p-5 bg-dark mx-auto mw-100">
 								<form action="#" method="post">
 									<div class="form-group">
-										<label class="mb-2">Email address</label>
+										<label class="mb-2">Correo</label>
 										<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="" required="">
 										<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 									</div>
 									<div class="form-group">
-										<label class="mb-2">Password</label>
+										<label class="mb-2">Contraseña</label>
 										<input type="password" class="form-control" id="exampleInputPassword1" placeholder="" required="">
 									</div>
 									<div class="form-check mb-2">
@@ -98,12 +98,12 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav nav-mega mx-auto">
 						<li class="nav-item active">
-							<a class="nav-link ml-lg-0" href="index.html">Home
+							<a class="nav-link ml-lg-0" href="index.html">Inicio
 								<span class="sr-only">(current)</span>
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="about.html">About</a>
+							<a class="nav-link" href="about.html">Acerca de</a>
 						</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -114,7 +114,7 @@
 								<li>
 									<div class="row">
 										<div class="col-md-4 media-list span4 text-left">
-											<h5 class="tittle-w3layouts-sub"> Tittle goes here </h5>
+											<h5 class="tittle-w3layouts-sub"> Biznagas lo Cabos </h5>
 											<ul>
 												<li class="media-mini mt-3">
 													<a href="shop.html">Designer Glasses</a>
@@ -251,7 +251,7 @@
 							</ul>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contact</a>
+							<a class="nav-link" href="contact.html"> Contact</a>
 						</li>
 					</ul>
 
