@@ -65,10 +65,39 @@
  // NOTE   ---------------  HEADER  -------------------
 
  include "modulos/Mainheader.php";
+ 
+
+
+// NOTE CONTENIDO TEMPORAL     
+/* -------------------------------------------------------- */
+
+
+            if(isset($_GET["ruta"])){
+
+              if($_GET["ruta"] == "inicio"){
+
+                include "modulos/baner.php";
+                include "modulos/".$_GET["inicio"].".php";
+
+              }else {
+                  # Error 404...
+                  include "modulos/404.php";
+              }
+            }
 
 
 
 
+
+
+
+
+
+// NOTE FOOTER      
+
+/* include "modulos/footer.php"; */
+
+/* echo '</div>'; */
 
 ?>
 
